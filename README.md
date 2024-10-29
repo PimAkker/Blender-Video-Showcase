@@ -26,13 +26,13 @@ This is a repository to show of some of my animations made using Blender used to
 
 # Animations I made for free for my friends to use as introductory slides for their master thesis presentations:
 
-## Animation to interest viewers in the problem of battery energy storage on Schiphol
+## Animation for battery energy storage on Schiphol
 ![alt text](<Airport Video.gif>)
 
 ## Animation showcasing drone path planning
 ![alt text](<drone example.gif>)
 
-## Animation to make a more interesting introduction to the concept of a mass-spring damper systems
+## Animation to introduce of a mass-spring damper system 
    
 ![alt text](mass_spring_train.gif) 
     
