@@ -1,4 +1,4 @@
-
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -37,7 +37,7 @@
             margin: 20px 0;
             text-align: center;
         }
-        .animation img {
+        .animation video {
             width: 100%;
             height: auto;
             max-width: 800px;
@@ -55,45 +55,63 @@
         <h1>Blender Animations</h1>
         <p>This repository showcases some of my animations made using Blender, used to either visualize a concept or draw interest from a viewer. 
         I use my Blender skills to make complex topics interesting and understandable.</p>
-        <div class="section" style="margin-bottom: 40px;">
-    <h2 style="border-bottom: 2px solid #ddd; padding-bottom: 5px;">Animations Created for My Master Thesis</h2>
+        <div class="section">
+            <h2>Animations Created for My Master Thesis</h2>
             <div class="animation">
-                <img src="intro screen mp4  version.gif" alt="Animation to draw attention and interest">
+                <video controls>
+                    <source src="higher quality/intro screen mp4  version.mp4" type="video/mp4">
+                </video>
                 <p class="animation-description">Animation to draw attention and interest</p>
             </div>
             <div class="animation">
-                <img src="problem statement.gif" alt="Animation introducing 2D LiDAR">
+                <video controls>
+                    <source src="higher quality/problem statement.mp4" type="video/mp4">
+                </video>
                 <p class="animation-description">Animation introducing 2D LiDAR</p>
             </div>
             <div class="animation">
-                <img src="LiDAR randomness explanation0001-0750.gif" alt="2D LiDAR noise simulation">
+                <video controls>
+                    <source src="higher quality/LiDAR randomness explanation0001-0750.mp4" type="video/mp4">
+                </video>
                 <p class="animation-description">Animation showing different types of 2D LiDAR noise</p>
             </div>
             <div class="animation">
-                <img src="BIM 3D to 2D.gif" alt="Transition from 3D to 2D animation">
+                <video controls>
+                    <source src="higher quality/BIM 3D to 2D.mp4" type="video/mp4">
+                </video>
                 <p class="animation-description">Animation showing transition from 3D to 2D</p>
             </div>
             <div class="animation">
-                <img src="chiar test0001-0500.gif" alt="Parametric chair design animation">
+                <video controls>
+                    <source src="higher quality/chiar test0001-0500.mp4" type="video/mp4">
+                </video>
                 <p class="animation-description">Animation showcasing parametrically created chairs</p>
             </div>
             <div class="animation">
-                <img src="Room  variation video v20001-1500.gif" alt="Random room layouts animation">
+                <video controls>
+                    <source src="higher quality/Room  variation video v20001-1500.mp4" type="video/mp4">
+                </video>
                 <p class="animation-description">Animation showing random room layouts for synthetic data generation</p>
             </div>
         </div>
         <div class="section">
             <h2>Animations Created for various projects at TU/e</h2>
             <div class="animation">
-                <img src="Airport Video.gif" alt="Battery energy storage animation">
+                <video controls>
+                    <source src="higher quality/Airport Video.mp4" type="video/mp4">
+                </video>
                 <p class="animation-description">Animation for battery energy storage at Schiphol</p>
             </div>
             <div class="animation">
-                <img src="drone example.gif" alt="Drone path planning animation">
+                <video controls>
+                    <source src="higher quality/drone example.mp4" type="video/mp4">
+                </video>
                 <p class="animation-description">Animation showcasing drone path planning</p>
             </div>
             <div class="animation">
-                <img src="mass_spring_train.gif" alt="Mass-spring damper system animation">
+                <video controls>
+                    <source src="higher quality/mass_spring_train.mp4" type="video/mp4">
+                </video>
                 <p class="animation-description">Animation introducing a mass-spring damper system</p>
             </div>
         </div>
