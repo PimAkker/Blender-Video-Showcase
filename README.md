@@ -114,6 +114,12 @@
                 </video>
                 <p class="animation-description">Animation introducing a mass-spring damper system</p>
             </div>
+            <div class="animation">
+            <video controls>
+                <source src="higher quality/fusion render.mp4" type="video/mp4">
+            </video>
+            <p class="animation-description">Animation of a wendelstein fusion reactor</p>
+            </div>
         </div>
     </div>
 </body>
